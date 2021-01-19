@@ -1,0 +1,10 @@
+package com.app.service;
+
+import com.app.model.Student;
+
+public interface Homeservice {
+	
+	public void saveStudent(Student stu);
+	
+
+}
